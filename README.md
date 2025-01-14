@@ -19,14 +19,14 @@ Las funciones de la aplicacion son las siguientes:
 - `Funcionalidad 6`: Además, tiene una opcion para cerrar la aplicación.
 
 ## ▶️Intrucciones de uso
-1.	Al ejecutar el programa, se muestra un menú en consola con las opciones de conversión disponibles.
-2.	El menú tiene 8 opciones diferentes de conversión de moneda y la opción 9 para terminar las operaciones y cerrar la aplicación.
+1.	Al ejecutar el programa, se muestra un menú en consola con las opciones disponibles:
+2.	El menú tiene 5 opciones diferentes de consulta y una opcion adicional para cerrar la aplicación.
 3.	El usuario debe digitar la opción de su preferencia y presionar la tecla ‘enter’ para continuar.
-4.	Después de seleccionar cualquiera de las opciones entre 1 y 8, se le pregunta al usuario el monto que desea convertir.
-5.	El usuario debe ingresar la cantidad de la moneda a convertir, presionar la tecla ‘enter’ y esperar el resultado de la operación.
-6.	Finalmente, en la consola, se muestra el resultado de la conversión dependiendo de la moneda seleccionada y el valor ingresado.
-7.	Después de ver el resultado, el usuario puede repetir el proceso cuantas veces lo desee o puede salir de la aplicación digitando la opción 9 y luego ‘enter’ para confirmar.
-8.	Al seleccionar la opción 9, la aplicación termina su ejecución.
+4.	Después de seleccionar cualquiera de las opciones entre 1 y 5, se le pregunta al usuario un dato adicional para completar la consulta según el caso.
+5.	El usuario debe ingresar los datos solicitados, presionar la tecla ‘enter’ y esperar el resultado de la operación.
+6.	Finalmente, en la consola, se muestra el resultado con la informacion solicitada.
+7.	Después de ver el resultado, el usuario puede repetir el proceso cuantas veces lo desee o puede salir de la aplicación digitando la opción 0 y luego ‘enter’ para confirmar.
+8.	Al seleccionar la opción 0, la aplicación termina su ejecución.
 
 ## 📁 Acceso al proyecto
 Para acceder al proyecto se pueden seguir los siguientes pasos:

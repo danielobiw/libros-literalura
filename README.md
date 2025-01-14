@@ -22,11 +22,13 @@ Las funciones de la aplicacion son las siguientes:
 1.	Al ejecutar el programa, se muestra un menú en consola con las opciones disponibles:
 2.	El menú tiene 5 opciones diferentes de consulta y una opcion adicional para cerrar la aplicación.
 3.	El usuario debe digitar la opción de su preferencia y presionar la tecla ‘enter’ para continuar.
-4.	Después de seleccionar cualquiera de las opciones entre 1 y 5, se le pregunta al usuario un dato adicional para completar la consulta según el caso.
+4.	Después de seleccionar cualquiera de las opciones entre 1 y 5, se le pregunta al usuario un dato adicional para completar la consulta según sea el caso.
 5.	El usuario debe ingresar los datos solicitados, presionar la tecla ‘enter’ y esperar el resultado de la operación.
 6.	Finalmente, en la consola, se muestra el resultado con la informacion solicitada.
 7.	Después de ver el resultado, el usuario puede repetir el proceso cuantas veces lo desee o puede salir de la aplicación digitando la opción 0 y luego ‘enter’ para confirmar.
 8.	Al seleccionar la opción 0, la aplicación termina su ejecución.
+
+NOTA: para que la aplicación funcione correctamente, el libro consultado debe estar registrado en la api de gutendex, de lo contrario la aplicacion se cerrará y habrá que reiniciarla.
 
 ## 📁 Acceso al proyecto
 Para acceder al proyecto se pueden seguir los siguientes pasos:
